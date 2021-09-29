@@ -1,0 +1,61 @@
+{
+    "AISample": {
+        "AIMetadata": {
+            "Identification": {
+                "DocumentTitle": "VOC2007",
+                "Version": "1.5",
+                "Purpose": "Object Detection",
+                "Abstract": "DOTA-v1.5 contains 400,000 annotated object instances in 16 categories. This is an updated version of DOTA-v1.0. They all use the same aerial images, but DOTA-v1.5 modified and updated the objects Many of the small object instances below 10 pixels that were missing in DOTA-v1.0 have been additionally annotated, and the category of DOTA-v1.5 has also been expanded",
+                "SampleCreator": "Panyinyin",
+                "SampleDate": "20190000",
+                "SampleSize": "400000",
+                "SampleLabeler": "Unspecified"
+            },
+            "SpatialRepresentation": {
+                "GeometricObjects": "polygon",
+                "Topology": "Unspecified",
+                "Extent": "Unspecified"
+            },
+            "CoordinateReferenceSystem": null,
+            "Constraints": {
+                "AccessConstraints": "Unspecified",
+                "Uselimitations": "Unspecified"
+            },
+            "DataQuality": {
+                "Completeness": {
+                    "excessItem": "Unspecified",
+                    "excessItemRate": "Unspecified",
+                    "excessItemNum": "Unspecified",
+                    "duplicateItemNum": "Unspecified"
+                },
+                "LogicalConsistency": {
+                    "FormatConsistency": "Unspecified",
+                    "DomainConsistency": "Unspecified"
+                },
+                "ThematicAccuracy": {
+                    "ClassificationCorrectness": "Unspecified"
+                },
+                "PositionalAccuracy": {
+                    "PositionBias": "Unspecified",
+                    "UncertaintiesMean": "Unspecified"
+                },
+                "Usability": "Unspecified",
+                "ClassBalance": "Unspecified"
+            },
+            "Provenance": {
+                "SampleLabeler": [
+                    "Unspecified",
+                    "Unspecified"
+                ],
+                "LabelDate": "Unspecified",
+                "Modifier": "Unspecified",
+                "ModifyDate": "Unspecified",
+                "ModifyContext": "Unspecified",
+                "ProcessStep": "Unspecified"
+            },
+            "SampleLink": {
+                "SampleJson": "D:\\SampleML\\sampleMLV2\\json/P0002_sample.json"
+            }
+        }
+    }
+}

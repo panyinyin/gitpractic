@@ -1,0 +1,4545 @@
+{
+    "AISample": {
+        "AILabelPair": {
+            "AILabel": [
+                {
+                    "featureID": "0",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "2238",
+                        "ymin": "1791",
+                        "xmax": "2254",
+                        "ymax": "1813"
+                    }
+                },
+                {
+                    "featureID": "1",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1462",
+                        "ymin": "2131",
+                        "xmax": "1472",
+                        "ymax": "2145"
+                    }
+                },
+                {
+                    "featureID": "2",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "1122",
+                        "ymin": "1607",
+                        "xmax": "1142",
+                        "ymax": "1620"
+                    }
+                },
+                {
+                    "featureID": "3",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "146",
+                        "ymin": "1860",
+                        "xmax": "164",
+                        "ymax": "1871"
+                    }
+                },
+                {
+                    "featureID": "4",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "211",
+                        "ymin": "1815",
+                        "xmax": "231",
+                        "ymax": "1823"
+                    }
+                },
+                {
+                    "featureID": "5",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "170",
+                        "ymin": "1826",
+                        "xmax": "189",
+                        "ymax": "1836"
+                    }
+                },
+                {
+                    "featureID": "6",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "80",
+                        "ymin": "2245",
+                        "xmax": "99",
+                        "ymax": "2263"
+                    }
+                },
+                {
+                    "featureID": "7",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "220",
+                        "ymin": "2470",
+                        "xmax": "233",
+                        "ymax": "2490"
+                    }
+                },
+                {
+                    "featureID": "8",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "172",
+                        "ymin": "2491",
+                        "xmax": "186",
+                        "ymax": "2513"
+                    }
+                },
+                {
+                    "featureID": "9",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1158",
+                        "ymin": "1137",
+                        "xmax": "1183",
+                        "ymax": "1152"
+                    }
+                },
+                {
+                    "featureID": "10",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1150",
+                        "ymin": "1165",
+                        "xmax": "1170",
+                        "ymax": "1178"
+                    }
+                },
+                {
+                    "featureID": "11",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1145",
+                        "ymin": "1176",
+                        "xmax": "1165",
+                        "ymax": "1190"
+                    }
+                },
+                {
+                    "featureID": "12",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1145",
+                        "ymin": "1185",
+                        "xmax": "1165",
+                        "ymax": "1197"
+                    }
+                },
+                {
+                    "featureID": "13",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1138",
+                        "ymin": "1203",
+                        "xmax": "1155",
+                        "ymax": "1214"
+                    }
+                },
+                {
+                    "featureID": "14",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1133",
+                        "ymin": "1210",
+                        "xmax": "1151",
+                        "ymax": "1223"
+                    }
+                },
+                {
+                    "featureID": "15",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1129",
+                        "ymin": "1242",
+                        "xmax": "1146",
+                        "ymax": "1253"
+                    }
+                },
+                {
+                    "featureID": "16",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1125",
+                        "ymin": "1252",
+                        "xmax": "1143",
+                        "ymax": "1265"
+                    }
+                },
+                {
+                    "featureID": "17",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1110",
+                        "ymin": "1147",
+                        "xmax": "1127",
+                        "ymax": "1160"
+                    }
+                },
+                {
+                    "featureID": "18",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1106",
+                        "ymin": "1157",
+                        "xmax": "1122",
+                        "ymax": "1169"
+                    }
+                },
+                {
+                    "featureID": "19",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "1132",
+                        "ymin": "1681",
+                        "xmax": "1151",
+                        "ymax": "1693"
+                    }
+                },
+                {
+                    "featureID": "20",
+                    "objectName": "large-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "1451",
+                        "ymin": "4002",
+                        "xmax": "1491",
+                        "ymax": "4023"
+                    }
+                },
+                {
+                    "featureID": "21",
+                    "objectName": "plane",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "3461",
+                        "ymin": "2690",
+                        "xmax": "3625",
+                        "ymax": "2855"
+                    }
+                },
+                {
+                    "featureID": "22",
+                    "objectName": "large-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "1119",
+                        "ymin": "3632",
+                        "xmax": "1131",
+                        "ymax": "3660"
+                    }
+                },
+                {
+                    "featureID": "23",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "538",
+                        "ymin": "3452",
+                        "xmax": "557",
+                        "ymax": "3467"
+                    }
+                },
+                {
+                    "featureID": "24",
+                    "objectName": "large-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "859",
+                        "ymin": "3768",
+                        "xmax": "879",
+                        "ymax": "3787"
+                    }
+                },
+                {
+                    "featureID": "25",
+                    "objectName": "large-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "869",
+                        "ymin": "3759",
+                        "xmax": "889",
+                        "ymax": "3777"
+                    }
+                },
+                {
+                    "featureID": "26",
+                    "objectName": "large-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "876",
+                        "ymin": "3751",
+                        "xmax": "896",
+                        "ymax": "3768"
+                    }
+                },
+                {
+                    "featureID": "27",
+                    "objectName": "large-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "964",
+                        "ymin": "3681",
+                        "xmax": "982",
+                        "ymax": "3706"
+                    }
+                },
+                {
+                    "featureID": "28",
+                    "objectName": "large-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "974",
+                        "ymin": "3674",
+                        "xmax": "996",
+                        "ymax": "3701"
+                    }
+                },
+                {
+                    "featureID": "29",
+                    "objectName": "large-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "998",
+                        "ymin": "3665",
+                        "xmax": "1018",
+                        "ymax": "3690"
+                    }
+                },
+                {
+                    "featureID": "30",
+                    "objectName": "large-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "1583",
+                        "ymin": "3828",
+                        "xmax": "1604",
+                        "ymax": "3854"
+                    }
+                },
+                {
+                    "featureID": "31",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "1093",
+                        "ymin": "1482",
+                        "xmax": "1105",
+                        "ymax": "1503"
+                    }
+                },
+                {
+                    "featureID": "32",
+                    "objectName": "large-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "2249",
+                        "ymin": "2982",
+                        "xmax": "2273",
+                        "ymax": "2997"
+                    }
+                },
+                {
+                    "featureID": "33",
+                    "objectName": "large-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "2249",
+                        "ymin": "2968",
+                        "xmax": "2278",
+                        "ymax": "2987"
+                    }
+                },
+                {
+                    "featureID": "34",
+                    "objectName": "large-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "2253",
+                        "ymin": "2956",
+                        "xmax": "2284",
+                        "ymax": "2976"
+                    }
+                },
+                {
+                    "featureID": "35",
+                    "objectName": "large-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "2085",
+                        "ymin": "3683",
+                        "xmax": "2121",
+                        "ymax": "3695"
+                    }
+                },
+                {
+                    "featureID": "36",
+                    "objectName": "large-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "2099",
+                        "ymin": "3824",
+                        "xmax": "2109",
+                        "ymax": "3847"
+                    }
+                },
+                {
+                    "featureID": "37",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "1061",
+                        "ymin": "1489",
+                        "xmax": "1075",
+                        "ymax": "1509"
+                    }
+                },
+                {
+                    "featureID": "38",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "1098",
+                        "ymin": "1517",
+                        "xmax": "1113",
+                        "ymax": "1536"
+                    }
+                },
+                {
+                    "featureID": "39",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1102",
+                        "ymin": "1168",
+                        "xmax": "1118",
+                        "ymax": "1179"
+                    }
+                },
+                {
+                    "featureID": "40",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1086",
+                        "ymin": "1208",
+                        "xmax": "1105",
+                        "ymax": "1220"
+                    }
+                },
+                {
+                    "featureID": "41",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1083",
+                        "ymin": "1217",
+                        "xmax": "1103",
+                        "ymax": "1230"
+                    }
+                },
+                {
+                    "featureID": "42",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "933",
+                        "ymin": "1426",
+                        "xmax": "946",
+                        "ymax": "1441"
+                    }
+                },
+                {
+                    "featureID": "43",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "805",
+                        "ymin": "1213",
+                        "xmax": "821",
+                        "ymax": "1229"
+                    }
+                },
+                {
+                    "featureID": "44",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "815",
+                        "ymin": "1218",
+                        "xmax": "830",
+                        "ymax": "1231"
+                    }
+                },
+                {
+                    "featureID": "45",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1012",
+                        "ymin": "1457",
+                        "xmax": "1025",
+                        "ymax": "1476"
+                    }
+                },
+                {
+                    "featureID": "46",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "985",
+                        "ymin": "1448",
+                        "xmax": "999",
+                        "ymax": "1466"
+                    }
+                },
+                {
+                    "featureID": "47",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "964",
+                        "ymin": "1440",
+                        "xmax": "978",
+                        "ymax": "1459"
+                    }
+                },
+                {
+                    "featureID": "48",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "958",
+                        "ymin": "1437",
+                        "xmax": "969",
+                        "ymax": "1453"
+                    }
+                },
+                {
+                    "featureID": "49",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "948",
+                        "ymin": "1432",
+                        "xmax": "961",
+                        "ymax": "1447"
+                    }
+                },
+                {
+                    "featureID": "50",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1000",
+                        "ymin": "1494",
+                        "xmax": "1018",
+                        "ymax": "1505"
+                    }
+                },
+                {
+                    "featureID": "51",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "786",
+                        "ymin": "1204",
+                        "xmax": "805",
+                        "ymax": "1222"
+                    }
+                },
+                {
+                    "featureID": "52",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "969",
+                        "ymin": "1480",
+                        "xmax": "986",
+                        "ymax": "1491"
+                    }
+                },
+                {
+                    "featureID": "53",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "944",
+                        "ymin": "1471",
+                        "xmax": "960",
+                        "ymax": "1483"
+                    }
+                },
+                {
+                    "featureID": "54",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "923",
+                        "ymin": "1460",
+                        "xmax": "940",
+                        "ymax": "1474"
+                    }
+                },
+                {
+                    "featureID": "55",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "893",
+                        "ymin": "1451",
+                        "xmax": "912",
+                        "ymax": "1463"
+                    }
+                },
+                {
+                    "featureID": "56",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1218",
+                        "ymin": "1454",
+                        "xmax": "1231",
+                        "ymax": "1470"
+                    }
+                },
+                {
+                    "featureID": "57",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1199",
+                        "ymin": "1446",
+                        "xmax": "1212",
+                        "ymax": "1465"
+                    }
+                },
+                {
+                    "featureID": "58",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1112",
+                        "ymin": "1290",
+                        "xmax": "1130",
+                        "ymax": "1304"
+                    }
+                },
+                {
+                    "featureID": "59",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "795",
+                        "ymin": "1209",
+                        "xmax": "813",
+                        "ymax": "1226"
+                    }
+                },
+                {
+                    "featureID": "60",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "858",
+                        "ymin": "1310",
+                        "xmax": "872",
+                        "ymax": "1329"
+                    }
+                },
+                {
+                    "featureID": "61",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1077",
+                        "ymin": "1227",
+                        "xmax": "1099",
+                        "ymax": "1240"
+                    }
+                },
+                {
+                    "featureID": "62",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "994",
+                        "ymin": "1208",
+                        "xmax": "1008",
+                        "ymax": "1227"
+                    }
+                },
+                {
+                    "featureID": "63",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1076",
+                        "ymin": "1242",
+                        "xmax": "1090",
+                        "ymax": "1260"
+                    }
+                },
+                {
+                    "featureID": "64",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1054",
+                        "ymin": "1235",
+                        "xmax": "1069",
+                        "ymax": "1252"
+                    }
+                },
+                {
+                    "featureID": "65",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1044",
+                        "ymin": "1230",
+                        "xmax": "1060",
+                        "ymax": "1249"
+                    }
+                },
+                {
+                    "featureID": "66",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1034",
+                        "ymin": "1226",
+                        "xmax": "1050",
+                        "ymax": "1245"
+                    }
+                },
+                {
+                    "featureID": "67",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1024",
+                        "ymin": "1223",
+                        "xmax": "1040",
+                        "ymax": "1241"
+                    }
+                },
+                {
+                    "featureID": "68",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1013",
+                        "ymin": "1217",
+                        "xmax": "1029",
+                        "ymax": "1236"
+                    }
+                },
+                {
+                    "featureID": "69",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1000",
+                        "ymin": "1212",
+                        "xmax": "1018",
+                        "ymax": "1231"
+                    }
+                },
+                {
+                    "featureID": "70",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "985",
+                        "ymin": "1205",
+                        "xmax": "999",
+                        "ymax": "1223"
+                    }
+                },
+                {
+                    "featureID": "71",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "866",
+                        "ymin": "1291",
+                        "xmax": "878",
+                        "ymax": "1307"
+                    }
+                },
+                {
+                    "featureID": "72",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "976",
+                        "ymin": "1200",
+                        "xmax": "990",
+                        "ymax": "1220"
+                    }
+                },
+                {
+                    "featureID": "73",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "969",
+                        "ymin": "1199",
+                        "xmax": "982",
+                        "ymax": "1218"
+                    }
+                },
+                {
+                    "featureID": "74",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "957",
+                        "ymin": "1195",
+                        "xmax": "975",
+                        "ymax": "1212"
+                    }
+                },
+                {
+                    "featureID": "75",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "928",
+                        "ymin": "1270",
+                        "xmax": "947",
+                        "ymax": "1284"
+                    }
+                },
+                {
+                    "featureID": "76",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "910",
+                        "ymin": "1322",
+                        "xmax": "930",
+                        "ymax": "1333"
+                    }
+                },
+                {
+                    "featureID": "77",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "903",
+                        "ymin": "1340",
+                        "xmax": "920",
+                        "ymax": "1352"
+                    }
+                },
+                {
+                    "featureID": "78",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "872",
+                        "ymin": "1270",
+                        "xmax": "886",
+                        "ymax": "1287"
+                    }
+                },
+                {
+                    "featureID": "79",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1046",
+                        "ymin": "3014",
+                        "xmax": "1064",
+                        "ymax": "3034"
+                    }
+                },
+                {
+                    "featureID": "80",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1488",
+                        "ymin": "2094",
+                        "xmax": "1501",
+                        "ymax": "2114"
+                    }
+                },
+                {
+                    "featureID": "81",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1449",
+                        "ymin": "2297",
+                        "xmax": "1460",
+                        "ymax": "2315"
+                    }
+                },
+                {
+                    "featureID": "82",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1453",
+                        "ymin": "1834",
+                        "xmax": "1465",
+                        "ymax": "1848"
+                    }
+                },
+                {
+                    "featureID": "83",
+                    "objectName": "large-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "3550",
+                        "ymin": "1208",
+                        "xmax": "3566",
+                        "ymax": "1233"
+                    }
+                },
+                {
+                    "featureID": "84",
+                    "objectName": "large-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "2763",
+                        "ymin": "2240",
+                        "xmax": "2789",
+                        "ymax": "2263"
+                    }
+                },
+                {
+                    "featureID": "85",
+                    "objectName": "large-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "3437",
+                        "ymin": "3391",
+                        "xmax": "3484",
+                        "ymax": "3422"
+                    }
+                },
+                {
+                    "featureID": "86",
+                    "objectName": "large-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "3340",
+                        "ymin": "3630",
+                        "xmax": "3381",
+                        "ymax": "3658"
+                    }
+                },
+                {
+                    "featureID": "87",
+                    "objectName": "large-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "3164",
+                        "ymin": "4158",
+                        "xmax": "3195",
+                        "ymax": "4204"
+                    }
+                },
+                {
+                    "featureID": "88",
+                    "objectName": "large-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "2866",
+                        "ymin": "4250",
+                        "xmax": "2916",
+                        "ymax": "4283"
+                    }
+                },
+                {
+                    "featureID": "89",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "633",
+                        "ymin": "1698",
+                        "xmax": "650",
+                        "ymax": "1713"
+                    }
+                },
+                {
+                    "featureID": "90",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "714",
+                        "ymin": "76",
+                        "xmax": "726",
+                        "ymax": "95"
+                    }
+                },
+                {
+                    "featureID": "91",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "731",
+                        "ymin": "82",
+                        "xmax": "744",
+                        "ymax": "101"
+                    }
+                },
+                {
+                    "featureID": "92",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "648",
+                        "ymin": "222",
+                        "xmax": "667",
+                        "ymax": "242"
+                    }
+                },
+                {
+                    "featureID": "93",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "733",
+                        "ymin": "122",
+                        "xmax": "754",
+                        "ymax": "136"
+                    }
+                },
+                {
+                    "featureID": "94",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "770",
+                        "ymin": "137",
+                        "xmax": "788",
+                        "ymax": "151"
+                    }
+                },
+                {
+                    "featureID": "95",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "806",
+                        "ymin": "153",
+                        "xmax": "827",
+                        "ymax": "168"
+                    }
+                },
+                {
+                    "featureID": "96",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "691",
+                        "ymin": "122",
+                        "xmax": "705",
+                        "ymax": "141"
+                    }
+                },
+                {
+                    "featureID": "97",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "700",
+                        "ymin": "126",
+                        "xmax": "714",
+                        "ymax": "145"
+                    }
+                },
+                {
+                    "featureID": "98",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "706",
+                        "ymin": "140",
+                        "xmax": "718",
+                        "ymax": "157"
+                    }
+                },
+                {
+                    "featureID": "99",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "917",
+                        "ymin": "117",
+                        "xmax": "938",
+                        "ymax": "131"
+                    }
+                },
+                {
+                    "featureID": "100",
+                    "objectName": "large-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "3534",
+                        "ymin": "1210",
+                        "xmax": "3550",
+                        "ymax": "1240"
+                    }
+                },
+                {
+                    "featureID": "101",
+                    "objectName": "large-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "3521",
+                        "ymin": "1204",
+                        "xmax": "3537",
+                        "ymax": "1236"
+                    }
+                },
+                {
+                    "featureID": "102",
+                    "objectName": "large-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "3570",
+                        "ymin": "1208",
+                        "xmax": "3594",
+                        "ymax": "1243"
+                    }
+                },
+                {
+                    "featureID": "103",
+                    "objectName": "plane",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "2782",
+                        "ymin": "1044",
+                        "xmax": "2936",
+                        "ymax": "1197"
+                    }
+                },
+                {
+                    "featureID": "104",
+                    "objectName": "plane",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "683",
+                        "ymin": "4182",
+                        "xmax": "864",
+                        "ymax": "4345"
+                    }
+                },
+                {
+                    "featureID": "105",
+                    "objectName": "plane",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "798",
+                        "ymin": "3915",
+                        "xmax": "976",
+                        "ymax": "4082"
+                    }
+                },
+                {
+                    "featureID": "106",
+                    "objectName": "plane",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "925",
+                        "ymin": "3742",
+                        "xmax": "1106",
+                        "ymax": "3929"
+                    }
+                },
+                {
+                    "featureID": "107",
+                    "objectName": "plane",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "1509",
+                        "ymin": "3987",
+                        "xmax": "1640",
+                        "ymax": "4131"
+                    }
+                },
+                {
+                    "featureID": "108",
+                    "objectName": "plane",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "1354",
+                        "ymin": "4495",
+                        "xmax": "1508",
+                        "ymax": "4649"
+                    }
+                },
+                {
+                    "featureID": "109",
+                    "objectName": "plane",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "2177",
+                        "ymin": "3295",
+                        "xmax": "2364",
+                        "ymax": "3459"
+                    }
+                },
+                {
+                    "featureID": "110",
+                    "objectName": "plane",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "2465",
+                        "ymin": "1617",
+                        "xmax": "2604",
+                        "ymax": "1782"
+                    }
+                },
+                {
+                    "featureID": "111",
+                    "objectName": "plane",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "2890",
+                        "ymin": "766",
+                        "xmax": "3043",
+                        "ymax": "917"
+                    }
+                },
+                {
+                    "featureID": "112",
+                    "objectName": "large-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "3585",
+                        "ymin": "1216",
+                        "xmax": "3609",
+                        "ymax": "1250"
+                    }
+                },
+                {
+                    "featureID": "113",
+                    "objectName": "plane",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "1932",
+                        "ymin": "1138",
+                        "xmax": "2113",
+                        "ymax": "1303"
+                    }
+                },
+                {
+                    "featureID": "114",
+                    "objectName": "plane",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "2866",
+                        "ymin": "4091",
+                        "xmax": "3040",
+                        "ymax": "4250"
+                    }
+                },
+                {
+                    "featureID": "115",
+                    "objectName": "plane",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "3120",
+                        "ymin": "3748",
+                        "xmax": "3234",
+                        "ymax": "3849"
+                    }
+                },
+                {
+                    "featureID": "116",
+                    "objectName": "plane",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "3231",
+                        "ymin": "3483",
+                        "xmax": "3347",
+                        "ymax": "3585"
+                    }
+                },
+                {
+                    "featureID": "117",
+                    "objectName": "plane",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "3340",
+                        "ymin": "3206",
+                        "xmax": "3458",
+                        "ymax": "3334"
+                    }
+                },
+                {
+                    "featureID": "118",
+                    "objectName": "plane",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "2636",
+                        "ymin": "3756",
+                        "xmax": "2820",
+                        "ymax": "3920"
+                    }
+                },
+                {
+                    "featureID": "119",
+                    "objectName": "large-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "3565",
+                        "ymin": "1262",
+                        "xmax": "3608",
+                        "ymax": "1285"
+                    }
+                },
+                {
+                    "featureID": "120",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "924",
+                        "ymin": "106",
+                        "xmax": "945",
+                        "ymax": "122"
+                    }
+                },
+                {
+                    "featureID": "121",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "935",
+                        "ymin": "88",
+                        "xmax": "955",
+                        "ymax": "104"
+                    }
+                },
+                {
+                    "featureID": "122",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "849",
+                        "ymin": "282",
+                        "xmax": "864",
+                        "ymax": "303"
+                    }
+                },
+                {
+                    "featureID": "123",
+                    "objectName": "large-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "1434",
+                        "ymin": "1941",
+                        "xmax": "1445",
+                        "ymax": "1959"
+                    }
+                },
+                {
+                    "featureID": "124",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "1083",
+                        "ymin": "2995",
+                        "xmax": "1102",
+                        "ymax": "3017"
+                    }
+                },
+                {
+                    "featureID": "125",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "1003",
+                        "ymin": "3064",
+                        "xmax": "1022",
+                        "ymax": "3084"
+                    }
+                },
+                {
+                    "featureID": "126",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "783",
+                        "ymin": "3172",
+                        "xmax": "803",
+                        "ymax": "3187"
+                    }
+                },
+                {
+                    "featureID": "127",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "910",
+                        "ymin": "3136",
+                        "xmax": "930",
+                        "ymax": "3151"
+                    }
+                },
+                {
+                    "featureID": "128",
+                    "objectName": "large-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "190",
+                        "ymin": "2698",
+                        "xmax": "203",
+                        "ymax": "2724"
+                    }
+                },
+                {
+                    "featureID": "129",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "225",
+                        "ymin": "2609",
+                        "xmax": "234",
+                        "ymax": "2628"
+                    }
+                },
+                {
+                    "featureID": "130",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "220",
+                        "ymin": "2652",
+                        "xmax": "230",
+                        "ymax": "2672"
+                    }
+                },
+                {
+                    "featureID": "131",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1153",
+                        "ymin": "1766",
+                        "xmax": "1170",
+                        "ymax": "1783"
+                    }
+                },
+                {
+                    "featureID": "132",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "1065",
+                        "ymin": "2972",
+                        "xmax": "1082",
+                        "ymax": "2991"
+                    }
+                },
+                {
+                    "featureID": "133",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1495",
+                        "ymin": "2068",
+                        "xmax": "1507",
+                        "ymax": "2086"
+                    }
+                },
+                {
+                    "featureID": "134",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1496",
+                        "ymin": "1958",
+                        "xmax": "1507",
+                        "ymax": "1973"
+                    }
+                },
+                {
+                    "featureID": "135",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1498",
+                        "ymin": "1983",
+                        "xmax": "1508",
+                        "ymax": "2000"
+                    }
+                },
+                {
+                    "featureID": "136",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1494",
+                        "ymin": "1892",
+                        "xmax": "1506",
+                        "ymax": "1911"
+                    }
+                },
+                {
+                    "featureID": "137",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1478",
+                        "ymin": "1961",
+                        "xmax": "1486",
+                        "ymax": "1975"
+                    }
+                },
+                {
+                    "featureID": "138",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1482",
+                        "ymin": "2157",
+                        "xmax": "1497",
+                        "ymax": "2176"
+                    }
+                },
+                {
+                    "featureID": "139",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1460",
+                        "ymin": "1957",
+                        "xmax": "1472",
+                        "ymax": "1972"
+                    }
+                },
+                {
+                    "featureID": "140",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "1117",
+                        "ymin": "2994",
+                        "xmax": "1133",
+                        "ymax": "3013"
+                    }
+                },
+                {
+                    "featureID": "141",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1239",
+                        "ymin": "2689",
+                        "xmax": "1254",
+                        "ymax": "2709"
+                    }
+                },
+                {
+                    "featureID": "142",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "785",
+                        "ymin": "349",
+                        "xmax": "796",
+                        "ymax": "367"
+                    }
+                },
+                {
+                    "featureID": "143",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "620",
+                        "ymin": "1675",
+                        "xmax": "637",
+                        "ymax": "1692"
+                    }
+                },
+                {
+                    "featureID": "144",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "793",
+                        "ymin": "354",
+                        "xmax": "805",
+                        "ymax": "370"
+                    }
+                },
+                {
+                    "featureID": "145",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "817",
+                        "ymin": "361",
+                        "xmax": "830",
+                        "ymax": "376"
+                    }
+                },
+                {
+                    "featureID": "146",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "891",
+                        "ymin": "1021",
+                        "xmax": "903",
+                        "ymax": "1038"
+                    }
+                },
+                {
+                    "featureID": "147",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "909",
+                        "ymin": "1040",
+                        "xmax": "927",
+                        "ymax": "1059"
+                    }
+                },
+                {
+                    "featureID": "148",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "942",
+                        "ymin": "1068",
+                        "xmax": "955",
+                        "ymax": "1086"
+                    }
+                },
+                {
+                    "featureID": "149",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "932",
+                        "ymin": "1063",
+                        "xmax": "943",
+                        "ymax": "1080"
+                    }
+                },
+                {
+                    "featureID": "150",
+                    "objectName": "large-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "1426",
+                        "ymin": "1907",
+                        "xmax": "1439",
+                        "ymax": "1935"
+                    }
+                },
+                {
+                    "featureID": "151",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "424",
+                        "ymin": "1841",
+                        "xmax": "442",
+                        "ymax": "1855"
+                    }
+                },
+                {
+                    "featureID": "152",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "273",
+                        "ymin": "1665",
+                        "xmax": "287",
+                        "ymax": "1682"
+                    }
+                },
+                {
+                    "featureID": "153",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "474",
+                        "ymin": "1836",
+                        "xmax": "496",
+                        "ymax": "1852"
+                    }
+                },
+                {
+                    "featureID": "154",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "383",
+                        "ymin": "1874",
+                        "xmax": "398",
+                        "ymax": "1884"
+                    }
+                },
+                {
+                    "featureID": "155",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "399",
+                        "ymin": "1866",
+                        "xmax": "418",
+                        "ymax": "1879"
+                    }
+                },
+                {
+                    "featureID": "156",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "310",
+                        "ymin": "1557",
+                        "xmax": "327",
+                        "ymax": "1576"
+                    }
+                },
+                {
+                    "featureID": "157",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "338",
+                        "ymin": "1565",
+                        "xmax": "351",
+                        "ymax": "1584"
+                    }
+                },
+                {
+                    "featureID": "158",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "42",
+                        "ymin": "1837",
+                        "xmax": "63",
+                        "ymax": "1851"
+                    }
+                },
+                {
+                    "featureID": "159",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "106",
+                        "ymin": "1807",
+                        "xmax": "129",
+                        "ymax": "1817"
+                    }
+                },
+                {
+                    "featureID": "160",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1454",
+                        "ymin": "2273",
+                        "xmax": "1466",
+                        "ymax": "2289"
+                    }
+                },
+                {
+                    "featureID": "161",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1439",
+                        "ymin": "2317",
+                        "xmax": "1458",
+                        "ymax": "2332"
+                    }
+                },
+                {
+                    "featureID": "162",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1889",
+                        "ymin": "1603",
+                        "xmax": "1906",
+                        "ymax": "1612"
+                    }
+                },
+                {
+                    "featureID": "163",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1116",
+                        "ymin": "1126",
+                        "xmax": "1135",
+                        "ymax": "1140"
+                    }
+                },
+                {
+                    "featureID": "164",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "675",
+                        "ymin": "1483",
+                        "xmax": "696",
+                        "ymax": "1495"
+                    }
+                },
+                {
+                    "featureID": "165",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "856",
+                        "ymin": "1428",
+                        "xmax": "874",
+                        "ymax": "1447"
+                    }
+                },
+                {
+                    "featureID": "166",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "835",
+                        "ymin": "1225",
+                        "xmax": "845",
+                        "ymax": "1240"
+                    }
+                },
+                {
+                    "featureID": "167",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "729",
+                        "ymin": "1191",
+                        "xmax": "748",
+                        "ymax": "1204"
+                    }
+                },
+                {
+                    "featureID": "168",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1289",
+                        "ymin": "1528",
+                        "xmax": "1296",
+                        "ymax": "1548"
+                    }
+                },
+                {
+                    "featureID": "169",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1275",
+                        "ymin": "1527",
+                        "xmax": "1285",
+                        "ymax": "1546"
+                    }
+                },
+                {
+                    "featureID": "170",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1259",
+                        "ymin": "1473",
+                        "xmax": "1273",
+                        "ymax": "1491"
+                    }
+                },
+                {
+                    "featureID": "171",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "915",
+                        "ymin": "1700",
+                        "xmax": "935",
+                        "ymax": "1715"
+                    }
+                },
+                {
+                    "featureID": "172",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1064",
+                        "ymin": "1837",
+                        "xmax": "1081",
+                        "ymax": "1851"
+                    }
+                },
+                {
+                    "featureID": "173",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1042",
+                        "ymin": "1829",
+                        "xmax": "1059",
+                        "ymax": "1840"
+                    }
+                },
+                {
+                    "featureID": "174",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1019",
+                        "ymin": "1819",
+                        "xmax": "1035",
+                        "ymax": "1832"
+                    }
+                },
+                {
+                    "featureID": "175",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1002",
+                        "ymin": "1813",
+                        "xmax": "1017",
+                        "ymax": "1823"
+                    }
+                },
+                {
+                    "featureID": "176",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "980",
+                        "ymin": "1803",
+                        "xmax": "998",
+                        "ymax": "1816"
+                    }
+                },
+                {
+                    "featureID": "177",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "956",
+                        "ymin": "1793",
+                        "xmax": "972",
+                        "ymax": "1806"
+                    }
+                },
+                {
+                    "featureID": "178",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "937",
+                        "ymin": "1787",
+                        "xmax": "953",
+                        "ymax": "1797"
+                    }
+                },
+                {
+                    "featureID": "179",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "916",
+                        "ymin": "1777",
+                        "xmax": "932",
+                        "ymax": "1789"
+                    }
+                },
+                {
+                    "featureID": "180",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "898",
+                        "ymin": "1769",
+                        "xmax": "916",
+                        "ymax": "1782"
+                    }
+                },
+                {
+                    "featureID": "181",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "788",
+                        "ymin": "1479",
+                        "xmax": "802",
+                        "ymax": "1497"
+                    }
+                },
+                {
+                    "featureID": "182",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "769",
+                        "ymin": "1501",
+                        "xmax": "786",
+                        "ymax": "1516"
+                    }
+                },
+                {
+                    "featureID": "183",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "591",
+                        "ymin": "1697",
+                        "xmax": "605",
+                        "ymax": "1711"
+                    }
+                },
+                {
+                    "featureID": "184",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "907",
+                        "ymin": "1113",
+                        "xmax": "924",
+                        "ymax": "1126"
+                    }
+                },
+                {
+                    "featureID": "185",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "873",
+                        "ymin": "1181",
+                        "xmax": "894",
+                        "ymax": "1195"
+                    }
+                },
+                {
+                    "featureID": "186",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "878",
+                        "ymin": "1171",
+                        "xmax": "897",
+                        "ymax": "1186"
+                    }
+                },
+                {
+                    "featureID": "187",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "883",
+                        "ymin": "1166",
+                        "xmax": "900",
+                        "ymax": "1178"
+                    }
+                },
+                {
+                    "featureID": "188",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "889",
+                        "ymin": "1148",
+                        "xmax": "907",
+                        "ymax": "1161"
+                    }
+                },
+                {
+                    "featureID": "189",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "895",
+                        "ymin": "1139",
+                        "xmax": "913",
+                        "ymax": "1152"
+                    }
+                },
+                {
+                    "featureID": "190",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "901",
+                        "ymin": "1132",
+                        "xmax": "918",
+                        "ymax": "1143"
+                    }
+                },
+                {
+                    "featureID": "191",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "904",
+                        "ymin": "1125",
+                        "xmax": "919",
+                        "ymax": "1137"
+                    }
+                },
+                {
+                    "featureID": "192",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "910",
+                        "ymin": "1104",
+                        "xmax": "927",
+                        "ymax": "1116"
+                    }
+                },
+                {
+                    "featureID": "193",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1271",
+                        "ymin": "1612",
+                        "xmax": "1289",
+                        "ymax": "1624"
+                    }
+                },
+                {
+                    "featureID": "194",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "914",
+                        "ymin": "1095",
+                        "xmax": "930",
+                        "ymax": "1109"
+                    }
+                },
+                {
+                    "featureID": "195",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1093",
+                        "ymin": "1189",
+                        "xmax": "1110",
+                        "ymax": "1203"
+                    }
+                },
+                {
+                    "featureID": "196",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1097",
+                        "ymin": "1179",
+                        "xmax": "1114",
+                        "ymax": "1192"
+                    }
+                },
+                {
+                    "featureID": "197",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1092",
+                        "ymin": "1200",
+                        "xmax": "1106",
+                        "ymax": "1212"
+                    }
+                },
+                {
+                    "featureID": "198",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1099",
+                        "ymin": "1446",
+                        "xmax": "1112",
+                        "ymax": "1465"
+                    }
+                },
+                {
+                    "featureID": "199",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1029",
+                        "ymin": "1496",
+                        "xmax": "1047",
+                        "ymax": "1506"
+                    }
+                },
+                {
+                    "featureID": "200",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1229",
+                        "ymin": "1649",
+                        "xmax": "1249",
+                        "ymax": "1662"
+                    }
+                },
+                {
+                    "featureID": "201",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "876",
+                        "ymin": "1760",
+                        "xmax": "895",
+                        "ymax": "1773"
+                    }
+                },
+                {
+                    "featureID": "202",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "831",
+                        "ymin": "1751",
+                        "xmax": "848",
+                        "ymax": "1762"
+                    }
+                },
+                {
+                    "featureID": "203",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "855",
+                        "ymin": "1756",
+                        "xmax": "870",
+                        "ymax": "1765"
+                    }
+                },
+                {
+                    "featureID": "204",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "864",
+                        "ymin": "3368",
+                        "xmax": "877",
+                        "ymax": "3385"
+                    }
+                },
+                {
+                    "featureID": "205",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "875",
+                        "ymin": "3353",
+                        "xmax": "890",
+                        "ymax": "3371"
+                    }
+                },
+                {
+                    "featureID": "206",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "886",
+                        "ymin": "3337",
+                        "xmax": "905",
+                        "ymax": "3356"
+                    }
+                },
+                {
+                    "featureID": "207",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "894",
+                        "ymin": "3331",
+                        "xmax": "910",
+                        "ymax": "3348"
+                    }
+                },
+                {
+                    "featureID": "208",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "902",
+                        "ymin": "3326",
+                        "xmax": "917",
+                        "ymax": "3342"
+                    }
+                },
+                {
+                    "featureID": "209",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "908",
+                        "ymin": "3317",
+                        "xmax": "923",
+                        "ymax": "3333"
+                    }
+                },
+                {
+                    "featureID": "210",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "920",
+                        "ymin": "3304",
+                        "xmax": "934",
+                        "ymax": "3320"
+                    }
+                },
+                {
+                    "featureID": "211",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "929",
+                        "ymin": "3298",
+                        "xmax": "944",
+                        "ymax": "3316"
+                    }
+                },
+                {
+                    "featureID": "212",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1475",
+                        "ymin": "2206",
+                        "xmax": "1484",
+                        "ymax": "2226"
+                    }
+                },
+                {
+                    "featureID": "213",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "485",
+                        "ymin": "3563",
+                        "xmax": "503",
+                        "ymax": "3575"
+                    }
+                },
+                {
+                    "featureID": "214",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1417",
+                        "ymin": "2216",
+                        "xmax": "1426",
+                        "ymax": "2232"
+                    }
+                },
+                {
+                    "featureID": "215",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1455",
+                        "ymin": "2255",
+                        "xmax": "1473",
+                        "ymax": "2271"
+                    }
+                },
+                {
+                    "featureID": "216",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1565",
+                        "ymin": "1010",
+                        "xmax": "1589",
+                        "ymax": "1027"
+                    }
+                },
+                {
+                    "featureID": "217",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1564",
+                        "ymin": "1023",
+                        "xmax": "1587",
+                        "ymax": "1040"
+                    }
+                },
+                {
+                    "featureID": "218",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1868",
+                        "ymin": "1553",
+                        "xmax": "1889",
+                        "ymax": "1566"
+                    }
+                },
+                {
+                    "featureID": "219",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1876",
+                        "ymin": "1568",
+                        "xmax": "1893",
+                        "ymax": "1578"
+                    }
+                },
+                {
+                    "featureID": "220",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1884",
+                        "ymin": "1592",
+                        "xmax": "1904",
+                        "ymax": "1602"
+                    }
+                },
+                {
+                    "featureID": "221",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "848",
+                        "ymin": "3347",
+                        "xmax": "865",
+                        "ymax": "3368"
+                    }
+                },
+                {
+                    "featureID": "222",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "465",
+                        "ymin": "3526",
+                        "xmax": "486",
+                        "ymax": "3546"
+                    }
+                },
+                {
+                    "featureID": "223",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1127",
+                        "ymin": "2033",
+                        "xmax": "1139",
+                        "ymax": "2051"
+                    }
+                },
+                {
+                    "featureID": "224",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "771",
+                        "ymin": "2947",
+                        "xmax": "787",
+                        "ymax": "2956"
+                    }
+                },
+                {
+                    "featureID": "225",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1133",
+                        "ymin": "2056",
+                        "xmax": "1142",
+                        "ymax": "2074"
+                    }
+                },
+                {
+                    "featureID": "226",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1136",
+                        "ymin": "2078",
+                        "xmax": "1145",
+                        "ymax": "2094"
+                    }
+                },
+                {
+                    "featureID": "227",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1140",
+                        "ymin": "2099",
+                        "xmax": "1151",
+                        "ymax": "2121"
+                    }
+                },
+                {
+                    "featureID": "228",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1142",
+                        "ymin": "2121",
+                        "xmax": "1154",
+                        "ymax": "2140"
+                    }
+                },
+                {
+                    "featureID": "229",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "846",
+                        "ymin": "2961",
+                        "xmax": "862",
+                        "ymax": "2971"
+                    }
+                },
+                {
+                    "featureID": "230",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "824",
+                        "ymin": "2960",
+                        "xmax": "841",
+                        "ymax": "2968"
+                    }
+                },
+                {
+                    "featureID": "231",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "787",
+                        "ymin": "2952",
+                        "xmax": "805",
+                        "ymax": "2963"
+                    }
+                },
+                {
+                    "featureID": "232",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "878",
+                        "ymin": "3117",
+                        "xmax": "896",
+                        "ymax": "3129"
+                    }
+                },
+                {
+                    "featureID": "233",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "644",
+                        "ymin": "3324",
+                        "xmax": "656",
+                        "ymax": "3340"
+                    }
+                },
+                {
+                    "featureID": "234",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "629",
+                        "ymin": "3117",
+                        "xmax": "648",
+                        "ymax": "3129"
+                    }
+                },
+                {
+                    "featureID": "235",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "569",
+                        "ymin": "3142",
+                        "xmax": "589",
+                        "ymax": "3155"
+                    }
+                },
+                {
+                    "featureID": "236",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "916",
+                        "ymin": "3175",
+                        "xmax": "933",
+                        "ymax": "3190"
+                    }
+                },
+                {
+                    "featureID": "237",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "893",
+                        "ymin": "3188",
+                        "xmax": "909",
+                        "ymax": "3200"
+                    }
+                },
+                {
+                    "featureID": "238",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "856",
+                        "ymin": "3267",
+                        "xmax": "874",
+                        "ymax": "3277"
+                    }
+                },
+                {
+                    "featureID": "239",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "836",
+                        "ymin": "3268",
+                        "xmax": "855",
+                        "ymax": "3279"
+                    }
+                },
+                {
+                    "featureID": "240",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "654",
+                        "ymin": "3327",
+                        "xmax": "668",
+                        "ymax": "3346"
+                    }
+                },
+                {
+                    "featureID": "241",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1122",
+                        "ymin": "1116",
+                        "xmax": "1140",
+                        "ymax": "1131"
+                    }
+                },
+                {
+                    "featureID": "242",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1156",
+                        "ymin": "1152",
+                        "xmax": "1173",
+                        "ymax": "1165"
+                    }
+                },
+                {
+                    "featureID": "243",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1434",
+                        "ymin": "2338",
+                        "xmax": "1450",
+                        "ymax": "2355"
+                    }
+                },
+                {
+                    "featureID": "244",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "999",
+                        "ymin": "62",
+                        "xmax": "1011",
+                        "ymax": "80"
+                    }
+                },
+                {
+                    "featureID": "245",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1343",
+                        "ymin": "2500",
+                        "xmax": "1360",
+                        "ymax": "2523"
+                    }
+                },
+                {
+                    "featureID": "246",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1382",
+                        "ymin": "2500",
+                        "xmax": "1395",
+                        "ymax": "2523"
+                    }
+                },
+                {
+                    "featureID": "247",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1319",
+                        "ymin": "2504",
+                        "xmax": "1336",
+                        "ymax": "2525"
+                    }
+                },
+                {
+                    "featureID": "248",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1325",
+                        "ymin": "2521",
+                        "xmax": "1338",
+                        "ymax": "2543"
+                    }
+                },
+                {
+                    "featureID": "249",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1332",
+                        "ymin": "2538",
+                        "xmax": "1348",
+                        "ymax": "2560"
+                    }
+                },
+                {
+                    "featureID": "250",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1351",
+                        "ymin": "2541",
+                        "xmax": "1363",
+                        "ymax": "2560"
+                    }
+                },
+                {
+                    "featureID": "251",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1299",
+                        "ymin": "2545",
+                        "xmax": "1315",
+                        "ymax": "2566"
+                    }
+                },
+                {
+                    "featureID": "252",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1329",
+                        "ymin": "2575",
+                        "xmax": "1344",
+                        "ymax": "2593"
+                    }
+                },
+                {
+                    "featureID": "253",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1319",
+                        "ymin": "2570",
+                        "xmax": "1332",
+                        "ymax": "2588"
+                    }
+                },
+                {
+                    "featureID": "254",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1303",
+                        "ymin": "2570",
+                        "xmax": "1319",
+                        "ymax": "2587"
+                    }
+                },
+                {
+                    "featureID": "255",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1337",
+                        "ymin": "2598",
+                        "xmax": "1353",
+                        "ymax": "2616"
+                    }
+                },
+                {
+                    "featureID": "256",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1324",
+                        "ymin": "2613",
+                        "xmax": "1333",
+                        "ymax": "2628"
+                    }
+                },
+                {
+                    "featureID": "257",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1305",
+                        "ymin": "2624",
+                        "xmax": "1324",
+                        "ymax": "2647"
+                    }
+                },
+                {
+                    "featureID": "258",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1299",
+                        "ymin": "2608",
+                        "xmax": "1314",
+                        "ymax": "2629"
+                    }
+                },
+                {
+                    "featureID": "259",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1290",
+                        "ymin": "2634",
+                        "xmax": "1303",
+                        "ymax": "2654"
+                    }
+                },
+                {
+                    "featureID": "260",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1318",
+                        "ymin": "2643",
+                        "xmax": "1333",
+                        "ymax": "2661"
+                    }
+                },
+                {
+                    "featureID": "261",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1293",
+                        "ymin": "2666",
+                        "xmax": "1305",
+                        "ymax": "2686"
+                    }
+                },
+                {
+                    "featureID": "262",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1334",
+                        "ymin": "2466",
+                        "xmax": "1352",
+                        "ymax": "2490"
+                    }
+                },
+                {
+                    "featureID": "263",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1361",
+                        "ymin": "2482",
+                        "xmax": "1379",
+                        "ymax": "2504"
+                    }
+                },
+                {
+                    "featureID": "264",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1385",
+                        "ymin": "2466",
+                        "xmax": "1404",
+                        "ymax": "2475"
+                    }
+                },
+                {
+                    "featureID": "265",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1407",
+                        "ymin": "2413",
+                        "xmax": "1426",
+                        "ymax": "2426"
+                    }
+                },
+                {
+                    "featureID": "266",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1424",
+                        "ymin": "2334",
+                        "xmax": "1436",
+                        "ymax": "2353"
+                    }
+                },
+                {
+                    "featureID": "267",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1410",
+                        "ymin": "2329",
+                        "xmax": "1422",
+                        "ymax": "2345"
+                    }
+                },
+                {
+                    "featureID": "268",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1399",
+                        "ymin": "2321",
+                        "xmax": "1414",
+                        "ymax": "2340"
+                    }
+                },
+                {
+                    "featureID": "269",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1383",
+                        "ymin": "2324",
+                        "xmax": "1395",
+                        "ymax": "2343"
+                    }
+                },
+                {
+                    "featureID": "270",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1426",
+                        "ymin": "2365",
+                        "xmax": "1445",
+                        "ymax": "2379"
+                    }
+                },
+                {
+                    "featureID": "271",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1425",
+                        "ymin": "2379",
+                        "xmax": "1442",
+                        "ymax": "2396"
+                    }
+                },
+                {
+                    "featureID": "272",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1418",
+                        "ymin": "2398",
+                        "xmax": "1436",
+                        "ymax": "2414"
+                    }
+                },
+                {
+                    "featureID": "273",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1392",
+                        "ymin": "2360",
+                        "xmax": "1402",
+                        "ymax": "2378"
+                    }
+                },
+                {
+                    "featureID": "274",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1373",
+                        "ymin": "2450",
+                        "xmax": "1389",
+                        "ymax": "2470"
+                    }
+                },
+                {
+                    "featureID": "275",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1404",
+                        "ymin": "2356",
+                        "xmax": "1417",
+                        "ymax": "2373"
+                    }
+                },
+                {
+                    "featureID": "276",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1394",
+                        "ymin": "2400",
+                        "xmax": "1408",
+                        "ymax": "2420"
+                    }
+                },
+                {
+                    "featureID": "277",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1382",
+                        "ymin": "2430",
+                        "xmax": "1398",
+                        "ymax": "2450"
+                    }
+                },
+                {
+                    "featureID": "278",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1363",
+                        "ymin": "2419",
+                        "xmax": "1385",
+                        "ymax": "2442"
+                    }
+                },
+                {
+                    "featureID": "279",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1398",
+                        "ymin": "2443",
+                        "xmax": "1412",
+                        "ymax": "2464"
+                    }
+                },
+                {
+                    "featureID": "280",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1344",
+                        "ymin": "2430",
+                        "xmax": "1360",
+                        "ymax": "2452"
+                    }
+                },
+                {
+                    "featureID": "281",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1363",
+                        "ymin": "2442",
+                        "xmax": "1378",
+                        "ymax": "2460"
+                    }
+                },
+                {
+                    "featureID": "282",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1306",
+                        "ymin": "2673",
+                        "xmax": "1320",
+                        "ymax": "2691"
+                    }
+                },
+                {
+                    "featureID": "283",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1280",
+                        "ymin": "2677",
+                        "xmax": "1298",
+                        "ymax": "2699"
+                    }
+                },
+                {
+                    "featureID": "284",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1280",
+                        "ymin": "2724",
+                        "xmax": "1290",
+                        "ymax": "2742"
+                    }
+                },
+                {
+                    "featureID": "285",
+                    "objectName": "plane",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "2899",
+                        "ymin": "2176",
+                        "xmax": "3096",
+                        "ymax": "2349"
+                    }
+                },
+                {
+                    "featureID": "286",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "656",
+                        "ymin": "3379",
+                        "xmax": "671",
+                        "ymax": "3398"
+                    }
+                },
+                {
+                    "featureID": "287",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "674",
+                        "ymin": "3337",
+                        "xmax": "687",
+                        "ymax": "3355"
+                    }
+                },
+                {
+                    "featureID": "288",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "666",
+                        "ymin": "3331",
+                        "xmax": "680",
+                        "ymax": "3351"
+                    }
+                },
+                {
+                    "featureID": "289",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "611",
+                        "ymin": "3309",
+                        "xmax": "624",
+                        "ymax": "3327"
+                    }
+                },
+                {
+                    "featureID": "290",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "626",
+                        "ymin": "1657",
+                        "xmax": "647",
+                        "ymax": "1674"
+                    }
+                },
+                {
+                    "featureID": "291",
+                    "objectName": "plane",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "3205",
+                        "ymin": "1664",
+                        "xmax": "3392",
+                        "ymax": "1833"
+                    }
+                },
+                {
+                    "featureID": "292",
+                    "objectName": "plane",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "3150",
+                        "ymin": "1800",
+                        "xmax": "3336",
+                        "ymax": "1970"
+                    }
+                },
+                {
+                    "featureID": "293",
+                    "objectName": "plane",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "2732",
+                        "ymin": "2355",
+                        "xmax": "2919",
+                        "ymax": "2526"
+                    }
+                },
+                {
+                    "featureID": "294",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "619",
+                        "ymin": "3369",
+                        "xmax": "634",
+                        "ymax": "3387"
+                    }
+                },
+                {
+                    "featureID": "295",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "631",
+                        "ymin": "291",
+                        "xmax": "646",
+                        "ymax": "308"
+                    }
+                },
+                {
+                    "featureID": "296",
+                    "objectName": "storage-tank",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "254",
+                        "ymin": "1604",
+                        "xmax": "310",
+                        "ymax": "1652"
+                    }
+                },
+                {
+                    "featureID": "297",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "626",
+                        "ymin": "3315",
+                        "xmax": "643",
+                        "ymax": "3335"
+                    }
+                },
+                {
+                    "featureID": "298",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1430",
+                        "ymin": "2306",
+                        "xmax": "1442",
+                        "ymax": "2325"
+                    }
+                },
+                {
+                    "featureID": "299",
+                    "objectName": "large-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1405",
+                        "ymin": "2375",
+                        "xmax": "1420",
+                        "ymax": "2398"
+                    }
+                },
+                {
+                    "featureID": "300",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "623",
+                        "ymin": "287",
+                        "xmax": "636",
+                        "ymax": "304"
+                    }
+                },
+                {
+                    "featureID": "301",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "607",
+                        "ymin": "324",
+                        "xmax": "621",
+                        "ymax": "340"
+                    }
+                },
+                {
+                    "featureID": "302",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "628",
+                        "ymin": "3373",
+                        "xmax": "642",
+                        "ymax": "3390"
+                    }
+                },
+                {
+                    "featureID": "303",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "610",
+                        "ymin": "3365",
+                        "xmax": "624",
+                        "ymax": "3384"
+                    }
+                },
+                {
+                    "featureID": "304",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1260",
+                        "ymin": "2743",
+                        "xmax": "1281",
+                        "ymax": "2762"
+                    }
+                },
+                {
+                    "featureID": "305",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1154",
+                        "ymin": "2861",
+                        "xmax": "1173",
+                        "ymax": "2881"
+                    }
+                },
+                {
+                    "featureID": "306",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1240",
+                        "ymin": "2754",
+                        "xmax": "1255",
+                        "ymax": "2774"
+                    }
+                },
+                {
+                    "featureID": "307",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1250",
+                        "ymin": "2770",
+                        "xmax": "1263",
+                        "ymax": "2791"
+                    }
+                },
+                {
+                    "featureID": "308",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1233",
+                        "ymin": "2799",
+                        "xmax": "1251",
+                        "ymax": "2818"
+                    }
+                },
+                {
+                    "featureID": "309",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1217",
+                        "ymin": "2834",
+                        "xmax": "1237",
+                        "ymax": "2854"
+                    }
+                },
+                {
+                    "featureID": "310",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1206",
+                        "ymin": "2854",
+                        "xmax": "1222",
+                        "ymax": "2873"
+                    }
+                },
+                {
+                    "featureID": "311",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1178",
+                        "ymin": "2870",
+                        "xmax": "1195",
+                        "ymax": "2888"
+                    }
+                },
+                {
+                    "featureID": "312",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1187",
+                        "ymin": "2887",
+                        "xmax": "1204",
+                        "ymax": "2905"
+                    }
+                },
+                {
+                    "featureID": "313",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1153",
+                        "ymin": "2886",
+                        "xmax": "1167",
+                        "ymax": "2903"
+                    }
+                },
+                {
+                    "featureID": "314",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "600",
+                        "ymin": "3361",
+                        "xmax": "614",
+                        "ymax": "3380"
+                    }
+                },
+                {
+                    "featureID": "315",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1159",
+                        "ymin": "2897",
+                        "xmax": "1175",
+                        "ymax": "2916"
+                    }
+                },
+                {
+                    "featureID": "316",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1141",
+                        "ymin": "2932",
+                        "xmax": "1163",
+                        "ymax": "2950"
+                    }
+                },
+                {
+                    "featureID": "317",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "1133",
+                        "ymin": "2960",
+                        "xmax": "1151",
+                        "ymax": "2979"
+                    }
+                },
+                {
+                    "featureID": "318",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "880",
+                        "ymin": "3257",
+                        "xmax": "901",
+                        "ymax": "3273"
+                    }
+                },
+                {
+                    "featureID": "319",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "927",
+                        "ymin": "3241",
+                        "xmax": "949",
+                        "ymax": "3257"
+                    }
+                },
+                {
+                    "featureID": "320",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "954",
+                        "ymin": "3233",
+                        "xmax": "974",
+                        "ymax": "3248"
+                    }
+                },
+                {
+                    "featureID": "321",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "906",
+                        "ymin": "3250",
+                        "xmax": "926",
+                        "ymax": "3263"
+                    }
+                },
+                {
+                    "featureID": "322",
+                    "objectName": "plane",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "631",
+                        "ymin": "4322",
+                        "xmax": "813",
+                        "ymax": "4485"
+                    }
+                }
+            ],
+            "imageSource": {
+                "imageSourceID": "2",
+                "abstract": "The image source is original from Google Earth",
+                "sensorType": "GoogleEarth",
+                "format": "png",
+                "resolution": "0.146343590398",
+                "width": "3875",
+                "height": "5502",
+                "imageChannels": "3",
+                "imagePath": "D:\\SampleML\\sampleMLV2\\image\\P0000.png"
+            },
+            "MetadataLink": {
+                "JsonLink": "D:\\SampleML\\sampleMLV2\\SampleJson/P0000_sample.json"
+            }
+        },
+        "AITask": null
+    }
+}

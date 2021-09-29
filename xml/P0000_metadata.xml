@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AISample>
+	<AIMetadata>
+		<Identification>
+			<DocumentTitle>VOC2007</DocumentTitle>
+			<Version>1.5</Version>
+			<Purpose>Object Detection</Purpose>
+			<Abstract>DOTA-v1.5 contains 400,000 annotated object instances in 16 categories. This is an updated version of DOTA-v1.0. They all use the same aerial images, but DOTA-v1.5 modified and updated the objects Many of the small object instances below 10 pixels that were missing in DOTA-v1.0 have been additionally annotated, and the category of DOTA-v1.5 has also been expanded</Abstract>
+			<SampleCreator>Panyinyin</SampleCreator>
+			<SampleDate>20190000</SampleDate>
+			<SampleSize>400000</SampleSize>
+			<SampleLabeler>Unspecified</SampleLabeler>
+		</Identification>
+		<SpatialRepresentation>
+			<GeometricObjects>polygon</GeometricObjects>
+			<Topology>Unspecified</Topology>
+			<Extent>Unspecified</Extent>
+		</SpatialRepresentation>
+		<CoordinateReferenceSystem/>
+		<Constraints>
+			<AccessConstraints>Unspecified</AccessConstraints>
+			<Uselimitations>Unspecified</Uselimitations>
+		</Constraints>
+		<DataQuality>
+			<Completeness>
+				<excessItem>Unspecified</excessItem>
+				<excessItemRate>Unspecified</excessItemRate>
+				<excessItemNum>Unspecified</excessItemNum>
+				<duplicateItemNum>Unspecified</duplicateItemNum>
+			</Completeness>
+			<LogicalConsistency>
+				<FormatConsistency>Unspecified</FormatConsistency>
+				<DomainConsistency>Unspecified</DomainConsistency>
+			</LogicalConsistency>
+			<ThematicAccuracy>
+				<ClassificationCorrectness>Unspecified</ClassificationCorrectness>
+			</ThematicAccuracy>
+			<PositionalAccuracy>
+				<PositionBias>Unspecified</PositionBias>
+				<UncertaintiesMean>Unspecified</UncertaintiesMean>
+			</PositionalAccuracy>
+			<Usability>Unspecified</Usability>
+			<ClassBalance>Unspecified</ClassBalance>
+		</DataQuality>
+		<Provenance>
+			<SampleLabeler>Unspecified</SampleLabeler>
+			<LabelDate>Unspecified</LabelDate>
+			<Modifier>Unspecified</Modifier>
+			<ModifyDate>Unspecified</ModifyDate>
+			<ModifyContext>Unspecified</ModifyContext>
+			<ProcessStep>Unspecified</ProcessStep>
+			<SampleLabeler>Unspecified</SampleLabeler>
+		</Provenance>
+		<SampleLink>
+			<SampleJson>D:\SampleML\sampleMLV2\json/P0000_sample.json</SampleJson>
+		</SampleLink>
+	</AIMetadata>
+</AISample>

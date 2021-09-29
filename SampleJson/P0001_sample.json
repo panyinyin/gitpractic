@@ -1,0 +1,583 @@
+{
+    "AISample": {
+        "AILabelPair": {
+            "AILabel": [
+                {
+                    "featureID": "0",
+                    "objectName": "ship",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "330",
+                        "ymin": "364",
+                        "xmax": "432",
+                        "ymax": "402"
+                    }
+                },
+                {
+                    "featureID": "1",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "252",
+                        "ymin": "1536",
+                        "xmax": "287",
+                        "ymax": "1568"
+                    }
+                },
+                {
+                    "featureID": "2",
+                    "objectName": "harbor",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "312",
+                        "ymin": "4078",
+                        "xmax": "602",
+                        "ymax": "4110"
+                    }
+                },
+                {
+                    "featureID": "3",
+                    "objectName": "ship",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "555",
+                        "ymin": "3934",
+                        "xmax": "670",
+                        "ymax": "3988"
+                    }
+                },
+                {
+                    "featureID": "4",
+                    "objectName": "ship",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "580",
+                        "ymin": "3891",
+                        "xmax": "677",
+                        "ymax": "3920"
+                    }
+                },
+                {
+                    "featureID": "5",
+                    "objectName": "ship",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "629",
+                        "ymin": "3719",
+                        "xmax": "686",
+                        "ymax": "3744"
+                    }
+                },
+                {
+                    "featureID": "6",
+                    "objectName": "ship",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "633",
+                        "ymin": "3043",
+                        "xmax": "705",
+                        "ymax": "3071"
+                    }
+                },
+                {
+                    "featureID": "7",
+                    "objectName": "ship",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "670",
+                        "ymin": "2581",
+                        "xmax": "736",
+                        "ymax": "2607"
+                    }
+                },
+                {
+                    "featureID": "8",
+                    "objectName": "ship",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "964",
+                        "ymin": "1640",
+                        "xmax": "1069",
+                        "ymax": "1683"
+                    }
+                },
+                {
+                    "featureID": "9",
+                    "objectName": "ship",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "1001",
+                        "ymin": "1608",
+                        "xmax": "1069",
+                        "ymax": "1638"
+                    }
+                },
+                {
+                    "featureID": "10",
+                    "objectName": "ship",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "983",
+                        "ymin": "864",
+                        "xmax": "1006",
+                        "ymax": "910"
+                    }
+                },
+                {
+                    "featureID": "11",
+                    "objectName": "harbor",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "312",
+                        "ymin": "3883",
+                        "xmax": "673",
+                        "ymax": "3947"
+                    }
+                },
+                {
+                    "featureID": "12",
+                    "objectName": "harbor",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "359",
+                        "ymin": "3685",
+                        "xmax": "695",
+                        "ymax": "3724"
+                    }
+                },
+                {
+                    "featureID": "13",
+                    "objectName": "harbor",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "397",
+                        "ymin": "3070",
+                        "xmax": "805",
+                        "ymax": "3095"
+                    }
+                },
+                {
+                    "featureID": "14",
+                    "objectName": "harbor",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "416",
+                        "ymin": "2889",
+                        "xmax": "825",
+                        "ymax": "2916"
+                    }
+                },
+                {
+                    "featureID": "15",
+                    "objectName": "harbor",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "437",
+                        "ymin": "2592",
+                        "xmax": "757",
+                        "ymax": "2629"
+                    }
+                },
+                {
+                    "featureID": "16",
+                    "objectName": "harbor",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "593",
+                        "ymin": "1864",
+                        "xmax": "1003",
+                        "ymax": "2017"
+                    }
+                },
+                {
+                    "featureID": "17",
+                    "objectName": "harbor",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "618",
+                        "ymin": "1776",
+                        "xmax": "1028",
+                        "ymax": "1895"
+                    }
+                },
+                {
+                    "featureID": "18",
+                    "objectName": "harbor",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "670",
+                        "ymin": "1540",
+                        "xmax": "1060",
+                        "ymax": "1659"
+                    }
+                },
+                {
+                    "featureID": "19",
+                    "objectName": "ship",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "528",
+                        "ymin": "4104",
+                        "xmax": "620",
+                        "ymax": "4144"
+                    }
+                },
+                {
+                    "featureID": "20",
+                    "objectName": "harbor",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "285",
+                        "ymin": "4240",
+                        "xmax": "657",
+                        "ymax": "4266"
+                    }
+                },
+                {
+                    "featureID": "21",
+                    "objectName": "ship",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "452",
+                        "ymin": "4260",
+                        "xmax": "494",
+                        "ymax": "4280"
+                    }
+                },
+                {
+                    "featureID": "22",
+                    "objectName": "ship",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "708",
+                        "ymin": "3093",
+                        "xmax": "819",
+                        "ymax": "3124"
+                    }
+                },
+                {
+                    "featureID": "23",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "1",
+                    "bndbox": {
+                        "xmin": "301",
+                        "ymin": "1429",
+                        "xmax": "331",
+                        "ymax": "1459"
+                    }
+                },
+                {
+                    "featureID": "24",
+                    "objectName": "harbor",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "784",
+                        "ymin": "876",
+                        "xmax": "1020",
+                        "ymax": "964"
+                    }
+                },
+                {
+                    "featureID": "25",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "91",
+                        "ymin": "5520",
+                        "xmax": "130",
+                        "ymax": "5542"
+                    }
+                },
+                {
+                    "featureID": "26",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "389",
+                        "ymin": "1083",
+                        "xmax": "424",
+                        "ymax": "1097"
+                    }
+                },
+                {
+                    "featureID": "27",
+                    "objectName": "small-vehicle",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "385",
+                        "ymin": "1062",
+                        "xmax": "419",
+                        "ymax": "1076"
+                    }
+                },
+                {
+                    "featureID": "28",
+                    "objectName": "harbor",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "477",
+                        "ymin": "2148",
+                        "xmax": "966",
+                        "ymax": "2252"
+                    }
+                },
+                {
+                    "featureID": "29",
+                    "objectName": "ship",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "727",
+                        "ymin": "3044",
+                        "xmax": "806",
+                        "ymax": "3076"
+                    }
+                },
+                {
+                    "featureID": "30",
+                    "objectName": "harbor",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "398",
+                        "ymin": "3188",
+                        "xmax": "739",
+                        "ymax": "3229"
+                    }
+                },
+                {
+                    "featureID": "31",
+                    "objectName": "ship",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "522",
+                        "ymin": "4264",
+                        "xmax": "663",
+                        "ymax": "4310"
+                    }
+                },
+                {
+                    "featureID": "32",
+                    "objectName": "ship",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "541",
+                        "ymin": "5297",
+                        "xmax": "589",
+                        "ymax": "5325"
+                    }
+                },
+                {
+                    "featureID": "33",
+                    "objectName": "harbor",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "306",
+                        "ymin": "5316",
+                        "xmax": "605",
+                        "ymax": "5395"
+                    }
+                },
+                {
+                    "featureID": "34",
+                    "objectName": "ship",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "537",
+                        "ymin": "4916",
+                        "xmax": "590",
+                        "ymax": "4940"
+                    }
+                },
+                {
+                    "featureID": "35",
+                    "objectName": "harbor",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "314",
+                        "ymin": "4939",
+                        "xmax": "589",
+                        "ymax": "4961"
+                    }
+                },
+                {
+                    "featureID": "36",
+                    "objectName": "ship",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "748",
+                        "ymin": "4414",
+                        "xmax": "805",
+                        "ymax": "4494"
+                    }
+                },
+                {
+                    "featureID": "37",
+                    "objectName": "ship",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "540",
+                        "ymin": "4473",
+                        "xmax": "606",
+                        "ymax": "4503"
+                    }
+                },
+                {
+                    "featureID": "38",
+                    "objectName": "harbor",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "228",
+                        "ymin": "4438",
+                        "xmax": "609",
+                        "ymax": "4475"
+                    }
+                },
+                {
+                    "featureID": "39",
+                    "objectName": "harbor",
+                    "level": "object level",
+                    "geometryType": "polygon",
+                    "truncated": "0",
+                    "difficult": "0",
+                    "bndbox": {
+                        "xmin": "782",
+                        "ymin": "1274",
+                        "xmax": "1064",
+                        "ymax": "1339"
+                    }
+                }
+            ],
+            "imageSource": {
+                "imageSourceID": "2",
+                "abstract": "The image source is original from Google Earth",
+                "sensorType": "GoogleEarth",
+                "format": "png",
+                "resolution": "0.146343590398",
+                "width": "1252",
+                "height": "5774",
+                "imageChannels": "3",
+                "imagePath": "D:\\SampleML\\sampleMLV2\\image\\P0001.png"
+            },
+            "MetadataLink": {
+                "JsonLink": "D:\\SampleML\\sampleMLV2\\SampleJson/P0001_sample.json"
+            }
+        },
+        "AITask": null
+    }
+}
